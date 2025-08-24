@@ -1,17 +1,17 @@
-# 🧬 Genomics Variant Effect Prediction
+# Genomics Variant Effect Prediction
 
 This project uses **machine learning** to predict whether genetic variants (mutations) are likely to be **benign** (harmless) or **pathogenic** (disease-causing).  
 
 ---
 
-## 🌍 Why This Project Matters
+## Why This Project Matters
 Every person’s DNA carries thousands of variants, but only a small fraction may lead to disease.  
 Determining which variants are harmful is a key challenge in **genomics, precision medicine, and genetic counseling**.  
 This project demonstrates how computational approaches can help classify variants quickly and consistently.
 
 ---
 
-## 🚀 How It Works
+## How It Works
 
 ### 1. Data Input
 - Uses **ClinVar**, a public database of human genetic variants.  
